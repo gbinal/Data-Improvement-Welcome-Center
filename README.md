@@ -11,6 +11,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc interdum, ipsum at
 2. Upload a dataset to this repository by issuing a pull request in the agency's folder.  
 3. [File an issue](https://github.com/gbinal/Data-Improvement-Welcome-Center/issues) to highlight your new data offering.  In the issue comment, include the url of the original dataset, the url of the modified dataset, and a description of your improvements.  Be sure to also tag the relevant agency with your issue.  
 
-_Optional_
+**Optional**
 
 * Add an entry for your improved dataset to this repository's machine-readable [data catalog file](https://github.com/gbinal/Data-Improvement-Welcome-Center/blob/master/data.json).  
