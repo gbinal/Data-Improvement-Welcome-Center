@@ -1,0 +1,15 @@
+[
+    {
+        "title": "List of Universities",
+        "description": "A modified form of the FAFSA list of schools, filtered to just colleges and universities and cleaned up.", 
+        "keyword": ["education"], 
+        "modified": "2014-02-19",
+        "publisher": "US Department of Educationn",
+        "contactPoint": "Kin Lane",
+        "mbox": "kinlane@gmail.com",
+        "identifier": "1",
+        "accessLevel": "public",
+      	"accessURL": "https://raw.github.com/gbinal/Data-Improvement-Welcome-Center/master/Department_of_Education/FAFSA_List_of_Universities.json",
+	      "format": "application/json"
+    }
+]
