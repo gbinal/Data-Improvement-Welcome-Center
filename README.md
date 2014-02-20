@@ -1,4 +1,13 @@
 Data-Improvement-Welcome-Center
 ===============================
 
-An open call for public improvements to government data.  
+Background
+
+## How to Contribute
+1. 
+2. 
+3. 
+
+Optional 
+
+4. Add an entry for your dataset to the repository's machine-readable [data catalog file](https://github.com/gbinal/Data-Improvement-Welcome-Center/blob/master/data.json).  
