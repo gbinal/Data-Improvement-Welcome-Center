@@ -14,3 +14,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc interdum, ipsum at
 **Optional**
 
 * Add an entry for your improved dataset to this repository's machine-readable [data catalog file](https://github.com/gbinal/Data-Improvement-Welcome-Center/blob/master/data.json).  
+
+## Disclaimer
+
+1. Data that has been shared in this project has been edited by citizens or third parties and is not certified as accurate or official in any capacity.  
+2. _What else??_
+3. Please share any questions or concerns in the issues section.  
+
+
+
+
